@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none; 
+}
+li a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    text-align: center;
+}
+.col ul li{
+    padding-top: 10px;
+    display:inline-block;
+}
+.nav{
+    background-color: #228b22;
+}
+.icons{
+    padding-top: 10px;
+    color: white;
+    text-align: right;
+}
+.icons i{
+    padding-left:20px;
+}
+p{
+    text-align: right;
+}
